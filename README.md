@@ -1,10 +1,10 @@
-# autotype
+# AutoType
 
 > [!NOTE]
 > This script is for educational purposes, as part of a clinical application project at TUM.
 
 Simulates keyboard input that types bash commands to write the contents of a folder.
-Tested on Windows using Thonny. Best to execute this from an IDE, it would be tricky
+Tested on Windows using Thonny. Best to execute it from an IDE, it would be tricky
 to stop the process in a terminal as the keyboard will be constantly typing.
 
 1. Prepare the folder you want to copy.
